@@ -1,0 +1,15 @@
+{
+  "name": "wano-ai-security",
+  "version": "2.0.0",
+  "description": "Advanced AI Security Bot 2026",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.14.1",
+    "natural": "^6.5.0",
+    "string-similarity": "^4.0.4"
+  }
+}
